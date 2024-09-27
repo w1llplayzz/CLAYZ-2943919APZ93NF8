@@ -1,9 +1,1 @@
------BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1V859B1YMnvTCC9gvhZN
-eavdAvagT3qH4dwPuDMuXIQond6TBYFM5uumaMbQjPtvFIER0vTu+FEqi+gH86Br
-Ppd5U3nvjKJYzhwEHMl/7OK8rBq9PZdpl2REjcTZzp4o5RWSdYbKUcxfT/nWN6TZ
-DCXcCBi8iQlnstS1FKQ1Q6SQVvwF7qfktTuhIFBjnB1hREqMcfwkcs1AA7xoSfWB
-wcSN1V0wxg1PUA34JgRUqEq4B/Lie4Ty4Jfd7wXOVZ7qzj31d1iI/Wxmi5i4UShP
-LrpDQykCjuGhFjyagB3vu0f2q5dZ29P/4r3jH27aKYGt7rs4TDxuJwvdTX80cUki
-lwIDAQAB
------END PUBLIC KEY-----
+{"HmdMDKQcp0aypLn0Nuo7vAaw0967SJ": {"used": false}, "OG03ucKSB8aiI8u7rNRjJbqmB2dtYP": {"used": false}, "TKw0ruzPDnL6fWI5GMauS9aVltiXlQ": {"used": false}, "E31Pe9GBcI2jOgjRd0DAJ7tLgyvepU": {"used": false}, "BeEIqMkCPzjdVUFm9PypjpwfobjjrZ": {"used": false}}
